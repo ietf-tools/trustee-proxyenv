@@ -1,3 +1,3 @@
-# legacy-trustee
+# trustee-proxyenv
 
-Docker image for Trustee based on `legacy-base`
+Docker image for `trustee-proxyenv`

@@ -1,4 +1,4 @@
-name: Publish legacy-trustee
+name: Publish trustee-proxyenv
 run-name: Publish build ${{ github.run_number }} of branch ${{ github.ref_name }} by @${{ github.actor }}
 
 on:
