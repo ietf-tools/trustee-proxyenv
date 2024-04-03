@@ -1,4 +1,4 @@
-FROM ghcr.io/ietf-tools/legacy-base:0.3.0
+FROM ghcr.io/ietf-tools/legacy-base:0.3.2
 
 COPY ./sites-available/000-default.conf /etc/apache2/sites-available/000-default.conf
 
